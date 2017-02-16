@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="contact_name_size">20sp</dimen>
+    <dimen name="contact_list_item_text_size">14sp</dimen>
+    <dimen name="first_name_padding">22dp</dimen>
+    <dimen name="last_name_padding">22dp</dimen>
+    <dimen name="phone_padding">50dp</dimen>
+    <dimen name="email_padding">55dp</dimen>
+    <dimen name="country_padding">42dp</dimen>
+    <dimen name="city_padding">66dp</dimen>
+    <dimen name="street_padding">53dp</dimen>
+    <dimen name="contact_activity_text_size">20sp</dimen>
+</resources>

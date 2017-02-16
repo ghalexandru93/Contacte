@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Contacte</string>
+    <string name="username_hint">Username</string>
+    <string name="password">Password</string>
+    <string name="signin_hint">Sign In</string>
+    <string name="signup_hint">Sign Up</string>
+    <string name="reset_hint">Reset</string>
+    <string name="contact_name_demo">Popescu Constantin</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_demo">Popescu</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_demo">Constantin</string>
+    <string name="phone">Phone</string>
+    <string name="phone_demo">0754123456</string>
+    <string name="email">Email</string>
+    <string name="email_demo">popescu.constantin@gmail.com</string>
+    <string name="country">Country</string>
+    <string name="country_demo">Romania</string>
+    <string name="city">City</string>
+    <string name="city_demo">Iasi</string>
+    <string name="street">Street</string>
+    <string name="street_demo">Alexandru Lapusneanu</string>
+    <string name="done">DONE</string>
+    <string name="menu_item_search">Search</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_edit">Edit</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="menu_item_add_contact">Add Contact</string>
+    <string name="menu_item_remove_all">Remove All</string>
+</resources>
